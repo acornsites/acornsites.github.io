@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cheeze</title>
-    <link>https://cheeze.finance/categories/</link>
+    <link>https://acornsites.github.io/categories/</link>
     <description>Recent content in Categories on Cheeze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Cheeze Finance</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cheeze.finance/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://acornsites.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>syntax</title>
-      <link>https://cheeze.finance/categories/syntax/</link>
+      <link>https://acornsites.github.io/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cheeze.finance/categories/syntax/</guid>
+      <guid>https://acornsites.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://cheeze.finance/categories/themes/</link>
+      <link>https://acornsites.github.io/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cheeze.finance/categories/themes/</guid>
+      <guid>https://acornsites.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
